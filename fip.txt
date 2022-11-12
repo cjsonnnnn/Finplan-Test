@@ -1,0 +1,11 @@
+these are the search queries I have used while doing the code:
+- font family
+- flaticon
+- change background
+- change color of image
+- change color png
+- icon for html
+- centering using flexbox
+- how to make font rounded
+- how to insert svg in
+- how to make font rounded html

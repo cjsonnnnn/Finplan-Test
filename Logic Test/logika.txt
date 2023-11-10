@@ -1,0 +1,15 @@
+these are the search queries I have used while doing the code:
+- sort in python
+- what is the difference between sorted and sort in python
+- Python RegEx
+- how to check using regex if a string has lower and uppercase
+- how to use list in markdown
+- lower string in python
+- how to remove symbols in string python
+- why does flatten numpy not take long list
+- flatten numpy array
+- how to append array numpy python
+- how to convert 2d array to 1d array in python
+- numpy reshape
+- how to separate text in python
+- how to input using map in python
